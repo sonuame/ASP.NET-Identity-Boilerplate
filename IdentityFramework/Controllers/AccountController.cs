@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace QRCodeGenerate.Controllers
+namespace IdentityFramework.Controllers
 {
     public class AccountController : Controller
     {

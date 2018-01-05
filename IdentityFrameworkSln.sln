@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCodeGenerate", "QRCodeGenerate\QRCodeGenerate.csproj", "{9AF93C8B-88CC-4141-9C6F-D53F300CF3D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityFrameworkTemplate", "IdentityFramework\IdentityFrameworkTemplate.csproj", "{9AF93C8B-88CC-4141-9C6F-D53F300CF3D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
